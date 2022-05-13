@@ -245,6 +245,7 @@ section#about {
 
 section#skills {
   background-color: var(--navColor3);
+  text-align: center;
 }
 
 section#projects {
